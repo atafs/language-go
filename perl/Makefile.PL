@@ -8,8 +8,8 @@ my $eumm_version = $ExtUtils::MakeMaker::VERSION;
 $eumm_version =~ s/_//;
 
 WriteMakefile(
-    NAME                => 'perldancer',
-    AUTHOR              => q{YOUR NAME <youremail@example.com>},
+    NAME                => 'PerlDancer1',
+    AUTHOR              => q{Americo Tomas <americo@moonfruit.com>},
     VERSION_FROM        => 'lib/perldancer.pm',
     ABSTRACT            => 'YOUR APPLICATION ABSTRACT',
     ($eumm_version >= 6.3001

@@ -1,0 +1,572 @@
+{
+  "type": "conversation.list",
+  "pages": {
+    "type": "pages",
+    "next": "https://api.intercom.io/conversations?email=americo%40moonfruit.com&per_page=20&page=2",
+    "page": 1,
+    "per_page": 20,
+    "total_pages": 32
+  },
+  "conversations": [
+    {
+      "type": "conversation",
+      "id": "6584883825",
+      "created_at": 1477996458,
+      "updated_at": 1477996458,
+      "user": {
+        "type": "user",
+        "id": "57e11d927f3cda443b0aeb78"
+      },
+      "assignee": {
+        "type": "nobody_admin",
+        "id": null
+      },
+      "conversation_message": {
+        "type": "conversation_message",
+        "id": "56656845",
+        "subject": "",
+        "body": "<p>test</p>",
+        "author": {
+          "type": "user",
+          "id": "57e11d927f3cda443b0aeb78"
+        },
+        "attachments": [],
+        "url": "http://staging.moonfruit.com/home#"
+      },
+      "open": true,
+      "read": true
+    },
+    {
+      "type": "conversation",
+      "id": "6409509172",
+      "created_at": 1476976053,
+      "updated_at": 1477928093,
+      "user": {
+        "type": "user",
+        "id": "579b430865c7bb6b54000663"
+      },
+      "assignee": {
+        "type": "admin",
+        "id": "545004"
+      },
+      "conversation_message": {
+        "type": "conversation_message",
+        "id": "54252870",
+        "subject": "",
+        "body": "<p>test</p>",
+        "author": {
+          "type": "user",
+          "id": "579b430865c7bb6b54000663"
+        },
+        "attachments": [],
+        "url": "http://moonfruit.americo.dev/home#"
+      },
+      "open": true,
+      "read": true
+    },
+    {
+      "type": "conversation",
+      "id": "6566234166",
+      "created_at": 1477908918,
+      "updated_at": 1477908918,
+      "user": {
+        "type": "user",
+        "id": "5811e727be9f2d52def46a83"
+      },
+      "assignee": {
+        "type": "nobody_admin",
+        "id": null
+      },
+      "conversation_message": {
+        "type": "conversation_message",
+        "id": "56442386",
+        "subject": "",
+        "body": "<p>asdasd</p>",
+        "author": {
+          "type": "user",
+          "id": "5811e727be9f2d52def46a83"
+        },
+        "attachments": [],
+        "url": "http://moonfruit.americo.dev/billing#"
+      },
+      "open": true,
+      "read": true
+    },
+    {
+      "type": "conversation",
+      "id": "6523086302",
+      "created_at": 1477646732,
+      "updated_at": 1477646732,
+      "user": {
+        "type": "user",
+        "id": "5811e727be9f2d52def46a83"
+      },
+      "assignee": {
+        "type": "nobody_admin",
+        "id": null
+      },
+      "conversation_message": {
+        "type": "conversation_message",
+        "id": "55900865",
+        "subject": "",
+        "body": "<p>ertert</p>",
+        "author": {
+          "type": "user",
+          "id": "5811e727be9f2d52def46a83"
+        },
+        "attachments": [],
+        "url": "http://moonfruit.americo.dev/billing#"
+      },
+      "open": true,
+      "read": true
+    },
+    {
+      "type": "conversation",
+      "id": "6507948652",
+      "created_at": 1477558392,
+      "updated_at": 1477558961,
+      "user": {
+        "type": "user",
+        "id": "580f7ec01a7a91cf9eb6bfdd"
+      },
+      "assignee": {
+        "type": "admin",
+        "id": "545004"
+      },
+      "conversation_message": {
+        "type": "conversation_message",
+        "id": "55666504",
+        "subject": "",
+        "body": "<p>hi</p>",
+        "author": {
+          "type": "user",
+          "id": "580f7ec01a7a91cf9eb6bfdd"
+        },
+        "attachments": [],
+        "url": "http://moonfruit.americo.dev/home#"
+      },
+      "open": true,
+      "read": true
+    },
+    {
+      "type": "conversation",
+      "id": "6471682732",
+      "created_at": 1477387019,
+      "updated_at": 1477387173,
+      "user": {
+        "type": "user",
+        "id": "57ff9900166874346997fe8a"
+      },
+      "assignee": {
+        "type": "admin",
+        "id": "545004"
+      },
+      "conversation_message": {
+        "type": "conversation_message",
+        "id": "55181084",
+        "subject": "",
+        "body": "<p>unhappy</p>",
+        "author": {
+          "type": "user",
+          "id": "57ff9900166874346997fe8a"
+        },
+        "attachments": [],
+        "url": "http://moonfruit.americo.dev/home"
+      },
+      "open": true,
+      "read": true
+    },
+    {
+      "type": "conversation",
+      "id": "6420029668",
+      "created_at": 1477043812,
+      "updated_at": 1477043812,
+      "user": {
+        "type": "user",
+        "id": "57d6aaac930ff9c9e18c1fb1"
+      },
+      "assignee": {
+        "type": "nobody_admin",
+        "id": null
+      },
+      "conversation_message": {
+        "type": "conversation_message",
+        "id": "54429154",
+        "subject": "",
+        "body": "<p>boop</p>",
+        "author": {
+          "type": "user",
+          "id": "57d6aaac930ff9c9e18c1fb1"
+        },
+        "attachments": [],
+        "url": "http://moonfruit.harley.dev/home"
+      },
+      "open": true,
+      "read": true
+    },
+    {
+      "type": "conversation",
+      "id": "6419927246",
+      "created_at": 1477042889,
+      "updated_at": 1477043312,
+      "user": {
+        "type": "user",
+        "id": "57d6aaac930ff9c9e18c1fb1"
+      },
+      "assignee": {
+        "type": "admin",
+        "id": "719984"
+      },
+      "conversation_message": {
+        "type": "conversation_message",
+        "id": "54426724",
+        "subject": "",
+        "body": "<p>ERMAGERD, EDITAR</p>",
+        "author": {
+          "type": "user",
+          "id": "57d6aaac930ff9c9e18c1fb1"
+        },
+        "attachments": [],
+        "url": "http://hsrth.harley.dev/"
+      },
+      "open": true,
+      "read": true
+    },
+    {
+      "type": "conversation",
+      "id": "6410816827",
+      "created_at": 1476979431,
+      "updated_at": 1476979431,
+      "user": {
+        "type": "user",
+        "id": "57d6aaac930ff9c9e18c1fb1"
+      },
+      "assignee": {
+        "type": "nobody_admin",
+        "id": null
+      },
+      "conversation_message": {
+        "type": "conversation_message",
+        "id": "54265752",
+        "subject": "",
+        "body": "<p>herro</p>",
+        "author": {
+          "type": "user",
+          "id": "57d6aaac930ff9c9e18c1fb1"
+        },
+        "attachments": [],
+        "url": "http://hsrth.harley.dev/"
+      },
+      "open": true,
+      "read": true
+    },
+    {
+      "type": "conversation",
+      "id": "6409246041",
+      "created_at": 1476974773,
+      "updated_at": 1476974773,
+      "user": {
+        "type": "user",
+        "id": "57d6aaac930ff9c9e18c1fb1"
+      },
+      "assignee": {
+        "type": "nobody_admin",
+        "id": null
+      },
+      "conversation_message": {
+        "type": "conversation_message",
+        "id": "54247998",
+        "subject": "",
+        "body": "<p>yiss</p>",
+        "author": {
+          "type": "user",
+          "id": "57d6aaac930ff9c9e18c1fb1"
+        },
+        "attachments": [],
+        "url": "http://moonfruit.harley.dev/home#"
+      },
+      "open": true,
+      "read": true
+    },
+    {
+      "type": "conversation",
+      "id": "6409244165",
+      "created_at": 1476974750,
+      "updated_at": 1476974750,
+      "user": {
+        "type": "user",
+        "id": "57d6aaac930ff9c9e18c1fb1"
+      },
+      "assignee": {
+        "type": "nobody_admin",
+        "id": null
+      },
+      "conversation_message": {
+        "type": "conversation_message",
+        "id": "54247917",
+        "subject": "",
+        "body": "<p>boo</p>",
+        "author": {
+          "type": "user",
+          "id": "57d6aaac930ff9c9e18c1fb1"
+        },
+        "attachments": [],
+        "url": "http://moonfruit.harley.dev/home#"
+      },
+      "open": true,
+      "read": true
+    },
+    {
+      "type": "conversation",
+      "id": "6406537011",
+      "created_at": 1476961517,
+      "updated_at": 1476973667,
+      "user": {
+        "type": "user",
+        "id": "57d6aaac930ff9c9e18c1fb1"
+      },
+      "assignee": {
+        "type": "admin",
+        "id": "719984"
+      },
+      "conversation_message": {
+        "type": "conversation_message",
+        "id": "54198516",
+        "subject": "",
+        "body": "<p>HI THERE</p>",
+        "author": {
+          "type": "user",
+          "id": "57d6aaac930ff9c9e18c1fb1"
+        },
+        "attachments": [],
+        "url": null
+      },
+      "open": false,
+      "read": true
+    },
+    {
+      "type": "conversation",
+      "id": "6409060850",
+      "created_at": 1476973618,
+      "updated_at": 1476973666,
+      "user": {
+        "type": "user",
+        "id": "57d6aaac930ff9c9e18c1fb1"
+      },
+      "assignee": {
+        "type": "admin",
+        "id": "719984"
+      },
+      "conversation_message": {
+        "type": "conversation_message",
+        "id": "54242887",
+        "subject": "",
+        "body": "<p>I'm not happy, innit</p>",
+        "author": {
+          "type": "user",
+          "id": "57d6aaac930ff9c9e18c1fb1"
+        },
+        "attachments": [],
+        "url": "http://moonfruit.harley.dev/home#"
+      },
+      "open": false,
+      "read": true
+    },
+    {
+      "type": "conversation",
+      "id": "6408347831",
+      "created_at": 1476971310,
+      "updated_at": 1476971310,
+      "user": {
+        "type": "user",
+        "id": "57d6aaac930ff9c9e18c1fb1"
+      },
+      "assignee": {
+        "type": "nobody_admin",
+        "id": null
+      },
+      "conversation_message": {
+        "type": "conversation_message",
+        "id": "54232598",
+        "subject": "",
+        "body": "<p>This should be logged under my user though</p>",
+        "author": {
+          "type": "user",
+          "id": "57d6aaac930ff9c9e18c1fb1"
+        },
+        "attachments": [],
+        "url": null
+      },
+      "open": true,
+      "read": true
+    },
+    {
+      "type": "conversation",
+      "id": "6408334276",
+      "created_at": 1476971234,
+      "updated_at": 1476971234,
+      "user": {
+        "type": "user",
+        "id": "57d6aaac930ff9c9e18c1fb1"
+      },
+      "assignee": {
+        "type": "nobody_admin",
+        "id": null
+      },
+      "conversation_message": {
+        "type": "conversation_message",
+        "id": "54232348",
+        "subject": "",
+        "body": "<p>hallo</p>",
+        "author": {
+          "type": "user",
+          "id": "57d6aaac930ff9c9e18c1fb1"
+        },
+        "attachments": [],
+        "url": "http://moonfruit.harley.dev/search-domains"
+      },
+      "open": true,
+      "read": true
+    },
+    {
+      "type": "conversation",
+      "id": "6408284787",
+      "created_at": 1476970800,
+      "updated_at": 1476970800,
+      "user": {
+        "type": "lead",
+        "id": "5808c92fd6cbb401868d1adb"
+      },
+      "assignee": {
+        "type": "nobody_admin",
+        "id": null
+      },
+      "conversation_message": {
+        "type": "conversation_message",
+        "id": "54230787",
+        "subject": "",
+        "body": "<p>Does this get turned into the user after I get logged in?</p>",
+        "author": {
+          "type": "lead",
+          "id": "5808c92fd6cbb401868d1adb"
+        },
+        "attachments": [],
+        "url": null
+      },
+      "open": true,
+      "read": true
+    },
+    {
+      "type": "conversation",
+      "id": "6406941878",
+      "created_at": 1476964591,
+      "updated_at": 1476964591,
+      "user": {
+        "type": "user",
+        "id": "57d6aaac930ff9c9e18c1fb1"
+      },
+      "assignee": {
+        "type": "nobody_admin",
+        "id": null
+      },
+      "conversation_message": {
+        "type": "conversation_message",
+        "id": "54208811",
+        "subject": "",
+        "body": "<p>test</p>",
+        "author": {
+          "type": "user",
+          "id": "57d6aaac930ff9c9e18c1fb1"
+        },
+        "attachments": [],
+        "url": null
+      },
+      "open": true,
+      "read": true
+    },
+    {
+      "type": "conversation",
+      "id": "6406934036",
+      "created_at": 1476964435,
+      "updated_at": 1476964435,
+      "user": {
+        "type": "lead",
+        "id": "5808b0523071c027929da9a6"
+      },
+      "assignee": {
+        "type": "nobody_admin",
+        "id": null
+      },
+      "conversation_message": {
+        "type": "conversation_message",
+        "id": "54208336",
+        "subject": "",
+        "body": "<p>This should break because I dicked about with the HMAC</p>",
+        "author": {
+          "type": "lead",
+          "id": "5808b0523071c027929da9a6"
+        },
+        "attachments": [],
+        "url": null
+      },
+      "open": true,
+      "read": true
+    },
+    {
+      "type": "conversation",
+      "id": "6406790926",
+      "created_at": 1476963045,
+      "updated_at": 1476963655,
+      "user": {
+        "type": "user",
+        "id": "57d6aaac930ff9c9e18c1fb1"
+      },
+      "assignee": {
+        "type": "nobody_admin",
+        "id": null
+      },
+      "conversation_message": {
+        "type": "conversation_message",
+        "id": "54203587",
+        "subject": "",
+        "body": "<p>I wonder where this one goes</p>",
+        "author": {
+          "type": "user",
+          "id": "57d6aaac930ff9c9e18c1fb1"
+        },
+        "attachments": [],
+        "url": null
+      },
+      "open": true,
+      "read": true
+    },
+    {
+      "type": "conversation",
+      "id": "6406777851",
+      "created_at": 1476962855,
+      "updated_at": 1476963655,
+      "user": {
+        "type": "user",
+        "id": "57d6aaac930ff9c9e18c1fb1"
+      },
+      "assignee": {
+        "type": "nobody_admin",
+        "id": null
+      },
+      "conversation_message": {
+        "type": "conversation_message",
+        "id": "54202980",
+        "subject": "",
+        "body": "<p>I wonder where this goes</p>",
+        "author": {
+          "type": "user",
+          "id": "57d6aaac930ff9c9e18c1fb1"
+        },
+        "attachments": [],
+        "url": null
+      },
+      "open": true,
+      "read": true
+    }
+  ]
+}

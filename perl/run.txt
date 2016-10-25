@@ -1,0 +1,2 @@
+#run app on a separate console
+perl bin/app.pl

@@ -1,0 +1,9 @@
+# App Counts
+curl 'https://api.intercom.io/counts' \
+-u i4eeesp5:31fa73bceea742dd631d69d46ddf9352e8ec2105 \
+-H 'Accept:application/json'
+
+# Conversation Admin Counts
+curl 'https://api.intercom.io/counts?type=conversation&count=admin' \
+-u i4eeesp5:31fa73bceea742dd631d69d46ddf9352e8ec2105 \
+-H 'Accept:application/json' >> json/counts.json

@@ -1,0 +1,177 @@
+{
+  "type": "count",
+  "conversation": {
+    "admin": [
+      {
+        "name": "Grace Howlett",
+        "id": "539971",
+        "open": 0,
+        "closed": 0
+      },
+      {
+        "name": "Moonfruit",
+        "id": "545004",
+        "open": 36,
+        "closed": 1
+      },
+      {
+        "name": "Facebook Bot",
+        "id": "546998",
+        "open": 0,
+        "closed": 0
+      },
+      {
+        "name": "Matt Casey",
+        "id": "547008",
+        "open": 0,
+        "closed": 0
+      },
+      {
+        "name": "Charlotte",
+        "id": "548602",
+        "open": 0,
+        "closed": 6
+      },
+      {
+        "name": "Katy James",
+        "id": "550256",
+        "open": 0,
+        "closed": 0
+      },
+      {
+        "name": "Solange Wome",
+        "id": "550813",
+        "open": 1,
+        "closed": 0
+      },
+      {
+        "name": "Francoise",
+        "id": "551666",
+        "open": 0,
+        "closed": 0
+      },
+      {
+        "name": "Kaz Hussain",
+        "id": "551887",
+        "open": 0,
+        "closed": 0
+      },
+      {
+        "name": "Igor",
+        "id": "553750",
+        "open": 0,
+        "closed": 0
+      },
+      {
+        "name": "Miriam Gunter",
+        "id": "554426",
+        "open": 0,
+        "closed": 0
+      },
+      {
+        "name": "Antoine Bugni",
+        "id": "663884",
+        "open": 0,
+        "closed": 7
+      },
+      {
+        "name": "Luis Azevedo",
+        "id": "673981",
+        "open": 0,
+        "closed": 0
+      },
+      {
+        "name": "Guillaume Guine",
+        "id": "715200",
+        "open": 0,
+        "closed": 0
+      },
+      {
+        "name": "Alex Jobbings",
+        "id": "719964",
+        "open": 0,
+        "closed": 0
+      },
+      {
+        "name": "Ian Christian",
+        "id": "719976",
+        "open": 0,
+        "closed": 2
+      },
+      {
+        "name": "Harley Faggetter",
+        "id": "719984",
+        "open": 1,
+        "closed": 11
+      },
+      {
+        "name": "Gaz",
+        "id": "719986",
+        "open": 0,
+        "closed": 0
+      },
+      {
+        "name": "Stan Milev",
+        "id": "719992",
+        "open": 0,
+        "closed": 0
+      },
+      {
+        "name": "Otis Simon",
+        "id": "720081",
+        "open": 0,
+        "closed": 0
+      },
+      {
+        "name": "Roch Trinque",
+        "id": "720082",
+        "open": 0,
+        "closed": 0
+      },
+      {
+        "name": "Carla Dawkins",
+        "id": "720338",
+        "open": 0,
+        "closed": 0
+      },
+      {
+        "name": "Jake Cozens",
+        "id": "721848",
+        "open": 0,
+        "closed": 0
+      },
+      {
+        "name": "Chris Miles",
+        "id": "735281",
+        "open": 0,
+        "closed": 0
+      },
+      {
+        "name": "Shiny Rampal",
+        "id": "753139",
+        "open": 0,
+        "closed": 0
+      },
+      {
+        "name": "Americo Tomas",
+        "id": "757503",
+        "open": 0,
+        "closed": 0
+      },
+      {
+        "name": "Responder",
+        "id": "761594",
+        "open": 0,
+        "closed": 0
+      },
+      {
+        "name": "Moonfruit Stats",
+        "id": "764161",
+        "open": 0,
+        "closed": 0
+      }
+    ]
+  }
+}
+{"type":"count","conversation":{"admin":[{"name":"Grace Howlett","id":"539971","open":0,"closed":0},{"name":"Moonfruit","id":"545004","open":36,"closed":1},{"name":"Facebook Bot","id":"546998","open":0,"closed":0},{"name":"Matt Casey","id":"547008","open":0,"closed":0},{"name":"Charlotte","id":"548602","open":0,"closed":6},{"name":"Katy James","id":"550256","open":0,"closed":0},{"name":"Solange Wome","id":"550813","open":1,"closed":0},{"name":"Francoise","id":"551666","open":0,"closed":0},{"name":"Kaz Hussain","id":"551887","open":0,"closed":0},{"name":"Igor","id":"553750","open":0,"closed":0},{"name":"Miriam Gunter","id":"554426","open":0,"closed":0},{"name":"Antoine Bugni","id":"663884","open":0,"closed":7},{"name":"Luis Azevedo","id":"673981","open":0,"closed":0},{"name":"Guillaume Guine","id":"715200","open":0,"closed":0},{"name":"Alex Jobbings","id":"719964","open":0,"closed":0},{"name":"Ian Christian","id":"719976","open":0,"closed":2},{"name":"Harley Faggetter","id":"719984","open":1,"closed":11},{"name":"Gaz","id":"719986","open":0,"closed":0},{"name":"Stan Milev","id":"719992","open":0,"closed":0},{"name":"Otis Simon","id":"720081","open":0,"closed":0},{"name":"Roch Trinque","id":"720082","open":0,"closed":0},{"name":"Carla Dawkins","id":"720338","open":0,"closed":0},{"name":"Jake Cozens","id":"721848","open":0,"closed":0},{"name":"Chris Miles","id":"735281","open":0,"closed":0},{"name":"Shiny Rampal","id":"753139","open":0,"closed":0},{"name":"Americo Tomas","id":"757503","open":0,"closed":0},{"name":"Responder","id":"761594","open":0,"closed":0},{"name":"Moonfruit Stats","id":"764161","open":0,"closed":0}]}}{"type":"count","conversation":{"admin":[{"name":"Grace Howlett","id":"539971","open":0,"closed":0},{"name":"Moonfruit","id":"545004","open":36,"closed":1},{"name":"Facebook Bot","id":"546998","open":0,"closed":0},{"name":"Matt Casey","id":"547008","open":0,"closed":0},{"name":"Charlotte","id":"548602","open":0,"closed":6},{"name":"Katy James","id":"550256","open":0,"closed":0},{"name":"Solange Wome","id":"550813","open":1,"closed":0},{"name":"Francoise","id":"551666","open":0,"closed":0},{"name":"Kaz Hussain","id":"551887","open":0,"closed":0},{"name":"Igor","id":"553750","open":0,"closed":0},{"name":"Miriam Gunter","id":"554426","open":0,"closed":0},{"name":"Antoine Bugni","id":"663884","open":0,"closed":7},{"name":"Luis Azevedo","id":"673981","open":0,"closed":0},{"name":"Guillaume Guine","id":"715200","open":0,"closed":0},{"name":"Alex Jobbings","id":"719964","open":0,"closed":0},{"name":"Ian Christian","id":"719976","open":0,"closed":2},{"name":"Harley Faggetter","id":"719984","open":1,"closed":11},{"name":"Gaz","id":"719986","open":0,"closed":0},{"name":"Stan Milev","id":"719992","open":0,"closed":0},{"name":"Otis Simon","id":"720081","open":0,"closed":0},{"name":"Roch Trinque","id":"720082","open":0,"closed":0},{"name":"Carla Dawkins","id":"720338","open":0,"closed":0},{"name":"Jake Cozens","id":"721848","open":0,"closed":0},{"name":"Chris Miles","id":"735281","open":0,"closed":0},{"name":"Shiny Rampal","id":"753139","open":0,"closed":0},{"name":"Americo Tomas","id":"757503","open":0,"closed":0},{"name":"Responder","id":"761594","open":0,"closed":0},{"name":"Moonfruit Stats","id":"764161","open":0,"closed":0}]}}
+{"type":"count","conversation":{"admin":[{"name":"Grace Howlett","id":"539971","open":0,"closed":0},{"name":"Moonfruit","id":"545004","open":36,"closed":1},{"name":"Facebook Bot","id":"546998","open":0,"closed":0},{"name":"Matt Casey","id":"547008","open":0,"closed":0},{"name":"Charlotte","id":"548602","open":0,"closed":6},{"name":"Katy James","id":"550256","open":0,"closed":0},{"name":"Solange Wome","id":"550813","open":1,"closed":0},{"name":"Francoise","id":"551666","open":0,"closed":0},{"name":"Kaz Hussain","id":"551887","open":0,"closed":0},{"name":"Igor","id":"553750","open":0,"closed":0},{"name":"Miriam Gunter","id":"554426","open":0,"closed":0},{"name":"Antoine Bugni","id":"663884","open":0,"closed":7},{"name":"Luis Azevedo","id":"673981","open":0,"closed":0},{"name":"Guillaume Guine","id":"715200","open":0,"closed":0},{"name":"Alex Jobbings","id":"719964","open":0,"closed":0},{"name":"Ian Christian","id":"719976","open":0,"closed":2},{"name":"Harley Faggetter","id":"719984","open":1,"closed":11},{"name":"Gaz","id":"719986","open":0,"closed":0},{"name":"Stan Milev","id":"719992","open":0,"closed":0},{"name":"Otis Simon","id":"720081","open":0,"closed":0},{"name":"Roch Trinque","id":"720082","open":0,"closed":0},{"name":"Carla Dawkins","id":"720338","open":0,"closed":0},{"name":"Jake Cozens","id":"721848","open":0,"closed":0},{"name":"Chris Miles","id":"735281","open":0,"closed":0},{"name":"Shiny Rampal","id":"753139","open":0,"closed":0},{"name":"Americo Tomas","id":"757503","open":0,"closed":0},{"name":"Responder","id":"761594","open":0,"closed":0},{"name":"Moonfruit Stats","id":"764161","open":0,"closed":0}]}}

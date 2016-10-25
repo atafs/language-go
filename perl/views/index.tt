@@ -23,10 +23,26 @@
           <h1>Getting started</h1>
           <h2>Hello Dancer1!! I am beginning to enjoy PERL!!</h2>
         </div>
+        <div id="date-form">
+          <button type="button"
+          onclick="document.getElementById('demo').innerHTML = Date()">
+          Click me to display Date and Time.</button>
+          <p id="demo"></p>
+        </div>
         <div id="echo-form">
           <form>
             <input type="text" name="q" />
             <input type="submit" value="Echo" />
+          </form>
+        </div></br>
+        <div id="click-form">
+          <form>
+            <input type="button" value="Redirect to /click" onclick="redirect_click()"/>
+            <script>
+                function redirect_click() {
+                   window.location.assign('/click')
+                }
+            </script>
           </form>
         </div>
       </div>

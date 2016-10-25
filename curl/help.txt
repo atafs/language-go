@@ -1,0 +1,19 @@
+curl http://localhost:8080/hello/Americo
+
+-I: status
+curl -I https://stripe-service-staging.sitemakerlive.com/
+
+-v: verbose
+curl -v https://www.google.pt/
+
+-i / –include: Include the response headers in the output
+curl -i https://stripe-service-staging.sitemakerlive.com/
+
+-o / –output FILE: Write output to a file rather than stdout
+curl -o output.txt https://stripe-service-staging.sitemakerlive.com/
+
+-X / –request METHOD: Set custom HTTP method (GET, PUT, POST, DELETE)
+curl -X POST http://localhost:8080/any
+
+--trace-time
+curl -v --trace-time http://localhost:3000/hello
