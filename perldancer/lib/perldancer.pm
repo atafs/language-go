@@ -15,4 +15,8 @@ get '/redirect' => sub {
     redirect '/';
 };
 
+get '/click' => sub {
+    template 'jquery/click';
+};
+
 true;
