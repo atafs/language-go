@@ -1,0 +1,33 @@
+<div id="page">
+      <div id="sidebar">
+        <ul id="sidebar-items">
+          <li>
+            <h3>Your application's environment</h3>
+
+            <ul>
+                <li>Location: <code><% settings.appdir %></code></li>
+                <li>Template engine: <code><% settings.template %></code></li>
+                <li>Logger: <code><% settings.logger %></code></li>
+                <li>Environment: <code><% settings.environment %></code></li>
+            </ul>
+
+          </li>
+        </ul>
+      </div>
+      <div id="content">
+        <div id="header">
+          <h1>Perl is dancing</h1>
+          <h2>You&rsquo;ve joined the dance floor!</h2>
+        </div>
+        <div id="getting-started">
+          <h1>Getting started</h1>
+          <h2>Hello Dancer1!! I am beginning to enjoy PERL!!</h2>
+        </div>
+        <div id="echo-form">
+          <form>
+            <input type="text" name="q" />
+            <input type="submit" value="Echo" />
+          </form>
+        </div>
+      </div>
+    </div>

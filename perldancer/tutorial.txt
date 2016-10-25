@@ -1,0 +1,5 @@
+//Getting started with Perl Dancer - Creating an Echo application
+http://perlmaven.com/getting-started-with-perl-dancer
+
+//Using cURL to automate HTTP jobs
+https://curl.haxx.se/docs/httpscripting.html
