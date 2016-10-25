@@ -8,4 +8,4 @@
 #(--trace-time: track time)
 #(-o: output the value)
 echo curl http://localhost:3000/hello
-curl -v --trace-time http://localhost:3000/hello -o ./resp_hello.txt
+curl -v --trace-time http://localhost:3000/hello -o ./txt/resp_hello.txt
