@@ -6,3 +6,6 @@ https://curl.haxx.se/docs/httpscripting.html
 
 //add features to the server
 http://www.w3schools.com/
+
+//Dancer::Cookbook - a quick-start guide to the Dancer web framework
+http://search.cpan.org/~bigpresh/Dancer-1.3202/lib/Dancer/Cookbook.pod
