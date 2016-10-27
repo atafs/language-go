@@ -5,6 +5,10 @@ use Dancer ':syntax';
 set port         => 8080;
 our $VERSION = '0.1';
 
+hook 'before' => sub {
+    #...
+};
+
 get '/' => sub {
     template 'index';
 };
@@ -38,9 +42,12 @@ get '/param/names/:person_name' => sub {
     # Look up the company and return appropriate page
 };
 
-#http://search.cpan.org/~bigpresh/Dancer-1.3202/lib/Dancer/Cookbook.pod
-#search: # Look up the company and return appropriate page
-
+any qr{.*} => sub {
+    status 'not_found';
+    template 'special_404', { path => request->path };
 };
+
+
+
 
 true;

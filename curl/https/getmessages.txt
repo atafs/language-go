@@ -1,0 +1,4 @@
+curl \
+https://api.intercom.io/conversations?email=americo@moonfruit.com \
+-u i4eeesp5:31fa73bceea742dd631d69d46ddf9352e8ec2105 \
+-H 'Accept:application/json'
