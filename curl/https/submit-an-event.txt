@@ -1,0 +1,8 @@
+ https://api.intercom.io/events \
+-X POST \
+-u i4eeesp5:31fa73bceea742dd631d69d46ddf9352e8ec2105 \
+-H "Content-Type: application/json" -d'
+{
+  "event_name" : "reactivate-subscription",
+  "user_id" : "1600024"
+}' >> json/submit-an-event.json
